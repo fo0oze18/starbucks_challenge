@@ -32,7 +32,7 @@ For test later records.
 
 * user_item_matrix
 # Results:
-The outcomes of this research you will find it [here]()
+The outcomes of this research you will find it [here](https://medium.com/@fo0oze18/starbucks-promotions-an-analytical-study-b7276cd21810)
 
 # Licensing, Authors, and Acknowledgements:
 I would thank Starbucks and Udacity the database
