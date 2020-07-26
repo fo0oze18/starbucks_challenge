@@ -21,16 +21,16 @@ I prefer goal here to help Starbucks make all users receive same offer. To solve
 * What is the offer should be sent to the customer? 
 * What is the best offers for each demographic groups ?
 # File Descriptions:
-* Starbucks_Capstone_notebook.ipynb:
+### Starbucks_Capstone_notebook.ipynb:
 contian all python work.
 
-* train_df:
+### train_df:
 for using previous records as training group to build our model.
 
-* test_df:
+### test_df:
 For test later records.
 
-* user_item_matrix.
+### user_item_matrix.
 # Results:
 The outcomes of this research you will find it [here](https://medium.com/@fo0oze18/starbucks-promotions-an-analytical-study-b7276cd21810)
 
